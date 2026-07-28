@@ -17,9 +17,13 @@ Raspberry Pi + Recalbox. Turned a tiny board into a retro gaming console.
 ## Gallery 
 
 ![Recalbox Setup](./images/recalbox.PNG)
+
 ![Recalbox Setup](./images/recalbox2.PNG)
+
 ![Recalbox Setup](./images/recalbox3.PNG)
+
 ![Recalbox Setup](./images/recalbox4.PNG)
+
 ![Recalbox Setup](./images/recalbox5.PNG)
 
 
