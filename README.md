@@ -1,12 +1,6 @@
 # Retro-Game Rhapsody
 
-Turning a Raspberry Pi into a retro gaming console. A work in progress — learning about hardware, emulation, power, and heat.
-
----
-
-## Overview
-
-**Retro-Game Rhapsody** is a personal project to build a retro gaming console using a Raspberry Pi and RetroPie. The goal is to create a functional, reliable, and cool (literally) gaming machine that can run classic games from multiple consoles.
+This is a personal project to build a retro gaming console using a Raspberry Pi and RetroPie. The goal was to create a functional, reliable, and cool (literally) gaming machine that can run classic games from multiple consoles.
 
 This project is about learning hardware and emulation.
 ---
@@ -28,15 +22,18 @@ This project is about learning hardware and emulation.
 
 - **Recalbox** — Retro gaming OS for Raspberry Pi
 - **ISO/ROMs** — Game files for supported consoles
+  
+---
 
-### Supported Systems (so far):
-- NES
-- SNES
-- SEGA Genesis
-- Nintendo 64
-- Game Boy / Game Boy Color
-- PlayStation 1
+### Systems Supported (Recalbox)
 
+
+| Category | Systems |
+|----------|---------|
+| **Consoles** | NES, SNES, N64, GameCube (Pi5), Wii (Pi5), Nintendo DS (Pi5), Game Boy, GBC, GBA, SEGA Genesis, Saturn, Dreamcast, PlayStation 1, Atari 2600, PC Engine, Neo-Geo, and many more. |
+| **Arcade** | MAME, FBNeo, NEO-GEO, NAOMI, SEGA Model 3, ATOMISWAVE, CPS-1/2/3, and more. |
+| **Computers** | Commodore 64, Amiga, Atari ST, Apple II, MSX, ZX Spectrum, and more. |
+| **Total** | **100+ systems supported.** |
 ---
 
 ## What I Learned
@@ -47,7 +44,7 @@ This project is about learning hardware and emulation.
 | **Emulation** | How emulators work, ROM management, BIOS setup |
 | **Linux** | Basic command line, file management, configuration files |
 | **Troubleshooting** | Debugging boot issues, audio/video output, controller mapping |
-| **Iteration** | Every failure is a step toward a better build |
+| **Iteration** | After 10 tries, finally made it work |
 
 ---
 
@@ -69,6 +66,13 @@ This project is about learning hardware and emulation.
 
 ---
 
+## 📝 Notes
+
+One random day I was bored, so I called and talked to one of my friends about trying to find a project that could interest me. He sent me a Raspberry Pi 3B. I had no idea what to do with it. Therefore I decided to figure it out.
+
+It was a bit of challenge since I never worked with simulations before but it was an amazing experience seeing it working properly when I connected to my tv. 
+
+---
 ## 📸 Gallery
 
 ![Recalbox Setup](./images/recalbox.PNG)
@@ -92,13 +96,7 @@ This project is about learning hardware and emulation.
 
 ---
 
-## 📝 Notes
-
-This is a personal project. I'm learning as I go and how I can build things that actually work.
-
----
-
 **Status:** Experiment  
-**Started:** 2025  
+**Started:** 2024  
 **Version:** v1.0 (v2 in progress)
 
