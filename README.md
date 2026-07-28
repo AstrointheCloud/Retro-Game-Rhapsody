@@ -2,14 +2,19 @@
 
 Raspberry Pi + Recalbox. Turned a tiny board into a retro gaming console.
 
-## 🚀 What I learned
+## Components needed
+- Raspberry PI 3B
+- Micro SD over 32gb
+- Power Cable & HDMI cable. 
+
+## What I learned
 
 - Hardware setup and configuration
 - Emulation and ROM management
 - Power management and thermal design
 - Troubleshooting and iteration
 
-## 📸 Gallery
+## Gallery 
 
 ![Recalbox Setup](./images/recalbox.PNG)
 ![Recalbox Setup](./images/recalbox2.PNG)
